@@ -1,1 +1,2 @@
-# first_website
+# first_website 
+As part of The Odin Project's online course, I am required to complete a project which includes building my first Landing Page. This means essentially starting with a blank HTML and CSS document which is pretty challenging! I will style the page similar to SportHawk styling. Enjoy!
